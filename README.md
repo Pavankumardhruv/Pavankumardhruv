@@ -12,18 +12,17 @@ Based in Hyderabad, India.
 
 | Project | What it does | Stack |
 |---|---|---|
+| Closrly | A personal health companion app for families — launching soon | Flutter · FastAPI · Firebase |
 | [Pa1Whisper](https://github.com/Pavankumardhruv/Pa1Whisper) | Offline voice-to-text for macOS — 100% local, nothing leaves your Mac | Swift · WhisperKit · CoreML |
-| [ragcli](https://github.com/Pavankumardhruv/ragcli) | Ask questions about your documents from the terminal | Python · ChromaDB · Claude |
+| [mcptools](https://github.com/Pavankumardhruv/mcptools) | Swiss Army knife for MCP server development — scaffold, inspect, test, validate | Python · MCP · FastMCP |
 | [commitgen](https://github.com/Pavankumardhruv/commitgen) | AI-powered commit messages — stage changes, run commitgen, done | Python · Claude · Ollama |
-| [ghstat](https://github.com/Pavankumardhruv/ghstat) | Analyze any GitHub profile from the terminal | Python · GitHub API · Rich |
-| [animated_onboarding](https://github.com/Pavankumardhruv/animated_onboarding) | Multi-step onboarding widget for Flutter with smooth animations | Dart · Flutter |
 
 ### My stack
 
 ```
   Mobile    →  Flutter · Dart · Swift · SwiftUI
   Backend   →  Python · FastAPI · PostgreSQL · Firebase
-  AI / ML   →  WhisperKit · CoreML · Claude API · Ollama · sentence-transformers
+  AI / ML   →  WhisperKit · CoreML · Claude API · Ollama · MCP
   Infra     →  Docker · GitHub Actions · Supabase
 ```
 
