@@ -15,6 +15,7 @@ Based in Hyderabad, India.
 | Closrly | A personal health companion app for families — launching soon | Flutter · FastAPI · Firebase |
 | [Pa1Whisper](https://github.com/Pavankumardhruv/Pa1Whisper) | Offline voice-to-text for macOS — 100% local, nothing leaves your Mac | Swift · WhisperKit · CoreML |
 | [mcptools](https://github.com/Pavankumardhruv/mcptools) | Swiss Army knife for MCP server development — scaffold, inspect, test, validate | Python · MCP · FastMCP |
+| [sesyncai](https://github.com/Pavankumardhruv/sesyncai) | Capture and sync your AI project context across tools and machines | Python · Typer · GitHub Gist |
 | [commitgen](https://github.com/Pavankumardhruv/commitgen) | AI-powered commit messages — stage changes, run commitgen, done | Python · Claude · Ollama |
 
 ### My stack
