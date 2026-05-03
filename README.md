@@ -2,7 +2,7 @@
 
 **Solo founder. Full-stack builder. Ship fast, ship real.**
 
-I build products end-to-end — from mobile UIs to backend APIs to on-device ML. Currently working on a health-tech app that connects families through shared health insights. Everything I build starts with a real problem and ends with something people actually use.
+I build products end-to-end from mobile UIs to backend APIs to on-device ML. Currently working on a health-tech app that connects families through shared health insights. Everything I build starts with a real problem and ends with something people actually use.
 
 Based in Hyderabad, India.
 
