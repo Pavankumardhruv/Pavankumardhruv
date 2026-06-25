@@ -1,8 +1,6 @@
 # Hey, I'm Pavan
 
-**Solo founder. Full-stack builder. Ship fast, ship real.**
-
-I build products end-to-end from mobile UIs to backend APIs to on-device ML. Currently working on a health-tech app that connects families through shared health insights. Everything I build starts with a real problem and ends with something people actually use.
+I build products end-to-end - mobile apps, backend APIs, AI tooling, and everything in between. Most of my work starts with a problem I ran into myself.
 
 Based in Hyderabad, India.
 
@@ -12,19 +10,23 @@ Based in Hyderabad, India.
 
 | Project | What it does | Stack |
 |---|---|---|
-| Closrly | A personal health companion app for families — launching soon | Flutter · FastAPI · Firebase |
-| [Pa1Whisper](https://github.com/Pavankumardhruv/Pa1Whisper) | Offline voice-to-text for macOS — 100% local, nothing leaves your Mac | Swift · WhisperKit · CoreML |
-| [mcptools](https://github.com/Pavankumardhruv/mcptools) | Swiss Army knife for MCP server development — scaffold, inspect, test, validate | Python · MCP · FastMCP |
-| [sesyncai](https://github.com/Pavankumardhruv/sesyncai) | Capture and sync your AI project context across tools and machines | Python · Typer · GitHub Gist |
-| [commitgen](https://github.com/Pavankumardhruv/commitgen) | AI-powered commit messages — stage changes, run commitgen, done | Python · Claude · Ollama |
+| [Pa1Whisper](https://github.com/Pavankumardhruv/Pa1Whisper) | Offline voice-to-text for macOS, runs entirely on-device | Swift · WhisperKit · CoreML |
+| [mcptools](https://github.com/Pavankumardhruv/mcptools) | Dev toolkit for MCP servers - scaffold, inspect, test, validate | Python · MCP · FastMCP |
+| [sesyncai](https://github.com/Pavankumardhruv/sesyncai) | Capture and sync AI project context across tools and machines | Python · Typer · GitHub Gist |
+| [tokentrack](https://github.com/Pavankumardhruv/tokentrack) | Terminal token counter and spend tracker for LLM APIs | Python · SQLite · Rich |
+| [commitgen](https://github.com/Pavankumardhruv/commitgen) | Generate commit messages from staged diffs | Python · Claude · Ollama |
+| [ragcli](https://github.com/Pavankumardhruv/ragcli) | Ask questions about local documents from the terminal | Python · ChromaDB · Claude |
+| [ghstat](https://github.com/Pavankumardhruv/ghstat) | Analyze any GitHub profile from the terminal | Python · GitHub API · Rich |
+| [animated_onboarding](https://github.com/Pavankumardhruv/animated_onboarding) | Multi-step onboarding widget for Flutter | Flutter · Dart |
 
-### My stack
+### Stack
 
 ```
-  Mobile    →  Flutter · Dart · Swift · SwiftUI
-  Backend   →  Python · FastAPI · PostgreSQL · Firebase
-  AI / ML   →  WhisperKit · CoreML · Claude API · Ollama · MCP
-  Infra     →  Docker · GitHub Actions · Supabase
+  Mobile    ->  Flutter · Dart · Swift · SwiftUI
+  Backend   ->  Python · FastAPI · Django · PostgreSQL
+  AI / ML   ->  WhisperKit · CoreML · Claude API · Ollama · MCP
+  Frontend  ->  Next.js · Astro · Tailwind CSS
+  Infra     ->  Docker · GitHub Actions · Supabase · Vercel
 ```
 
 ### GitHub activity
@@ -40,7 +42,4 @@ Based in Hyderabad, India.
 
 ---
 
-**Builds from scratch, ships solo.**
-
 [LinkedIn](https://www.linkedin.com/in/pavan-kumar-d-a0a54b94/) · [Email](mailto:pavankumardhruv@gmail.com)
-
