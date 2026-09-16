@@ -1,6 +1,10 @@
 # Hey, I'm Pavan
 
-I build products end-to-end - mobile apps, backend APIs, AI tooling, and everything in between. Most of my work starts with a problem I ran into myself.
+Builder, not a talker. Solo developer shipping AI-powered products from zero to one.
+
+I spent years writing specs for other people to build. AI gave me the execution. Now I ship the whole thing myself, full-stack products, autonomous agents, and developer tools, solo, from the terminal.
+
+Most of it starts with a problem I ran into myself.
 
 Based in Hyderabad, India.
 
