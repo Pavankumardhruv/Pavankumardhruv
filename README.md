@@ -42,8 +42,8 @@ Some of it will open up. Ask me what I'm working on.
 ### GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Pavankumardhruv&show_icons=true&theme=transparent&hide_border=true&title_color=06b6d4&icon_color=06b6d4&text_color=e6e1db&bg_color=00000000&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pavankumardhruv&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" alt="GitHub Stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavankumardhruv&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pavankumardhruv&theme=default" width="100%" alt="GitHub profile summary">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Pavankumardhruv&theme=transparent&hide_border=true&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=e6e1db&dates=8a847b&currStreakNum=e6e1db&sideNums=e6e1db">
