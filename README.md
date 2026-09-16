@@ -1,6 +1,6 @@
 # Hey, I'm Pavan
 
-Builder, not a talker. Solo developer shipping AI-powered products from zero to one.
+Solo developer shipping AI-powered products, zero to one. The ideas were never the bottleneck.
 
 I've had ideas for as long as I can remember - too many of them. For years I delivered specs for someone else to build. AI gave me the power and the control to execute them myself. Now I ship end to end, full-stack products, autonomous agents, and developer tools, solo, from the terminal.
 
