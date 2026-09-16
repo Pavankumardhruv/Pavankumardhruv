@@ -21,6 +21,14 @@ Based in Hyderabad, India.
 | [ragcli](https://github.com/Pavankumardhruv/ragcli) | Ask questions about local documents from the terminal | Python · ChromaDB · Claude |
 | [animated_onboarding](https://github.com/Pavankumardhruv/animated_onboarding) | Multi-step onboarding widget for Flutter | Flutter · Dart |
 
+### And the part you can't see
+
+Those are the tools I built to move faster. Most of my week goes somewhere else - a small set of private repos, each one a product with real users on the other side of it. They stay closed while they are still finding their shape.
+
+If the contribution graph below looks busier than the list above explains, now you know why.
+
+Some of it will open up. Ask me what I'm working on.
+
 ### Stack
 
 ```
