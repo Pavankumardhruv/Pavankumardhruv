@@ -20,7 +20,6 @@ Open source, and yours to use:
 | [mcptools](https://github.com/Pavankumardhruv/mcptools) | Dev toolkit for MCP servers - scaffold, inspect, test, validate | Python · MCP · FastMCP |
 | [tokentrack](https://github.com/Pavankumardhruv/tokentrack) | Terminal token counter and spend tracker for LLM APIs | Python · SQLite · Rich |
 | [ragcli](https://github.com/Pavankumardhruv/ragcli) | Ask questions about local documents from the terminal | Python · ChromaDB · Claude |
-| [animated_onboarding](https://github.com/Pavankumardhruv/animated_onboarding) | Multi-step onboarding widget for Flutter | Flutter · Dart |
 
 ### And the part you can't see
 
