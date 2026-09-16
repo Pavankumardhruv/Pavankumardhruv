@@ -48,8 +48,8 @@ Some of it will open up. Ask me what I'm working on.
   <img src="https://github-readme-stats.vercel.app/api?username=Pavankumardhruv&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" alt="GitHub Stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Pavankumardhruv&theme=transparent&hide_border=true&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=e6e1db&dates=8a847b&currStreakNum=e6e1db&sideNums=e6e1db">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pavankumardhruv&hide_border=true" width="48%" alt="GitHub Streak">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Pavankumardhruv&theme=transparent&hide_border=true&ring=06b6d4&fire=06b6d4&currStreakLabel=06b6d4&sideLabels=e6e1db&dates=8a847b&currStreakNum=e6e1db&sideNums=e6e1db">
+  <img src="https://streak-stats.demolab.com/?user=Pavankumardhruv&hide_border=true" width="48%" alt="GitHub Streak">
 </picture>
 
 ---
