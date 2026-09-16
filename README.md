@@ -14,7 +14,6 @@ Based in Hyderabad, India.
 | [mcptools](https://github.com/Pavankumardhruv/mcptools) | Dev toolkit for MCP servers - scaffold, inspect, test, validate | Python · MCP · FastMCP |
 | [sesyncai](https://github.com/Pavankumardhruv/sesyncai) | Capture and sync AI project context across tools and machines | Python · Typer · GitHub Gist |
 | [tokentrack](https://github.com/Pavankumardhruv/tokentrack) | Terminal token counter and spend tracker for LLM APIs | Python · SQLite · Rich |
-| [commitgen](https://github.com/Pavankumardhruv/commitgen) | Generate commit messages from staged diffs | Python · Claude · Ollama |
 | [ragcli](https://github.com/Pavankumardhruv/ragcli) | Ask questions about local documents from the terminal | Python · ChromaDB · Claude |
 | [ghstat](https://github.com/Pavankumardhruv/ghstat) | Analyze any GitHub profile from the terminal | Python · GitHub API · Rich |
 | [animated_onboarding](https://github.com/Pavankumardhruv/animated_onboarding) | Multi-step onboarding widget for Flutter | Flutter · Dart |
