@@ -12,6 +12,8 @@ Based in Hyderabad, India.
 
 ### What I'm building
 
+Open source, and yours to use:
+
 | Project | What it does | Stack |
 |---|---|---|
 | [Pa1Whisper](https://github.com/Pavankumardhruv/Pa1Whisper) | Offline voice-to-text for macOS, runs entirely on-device | Swift · WhisperKit · CoreML |
