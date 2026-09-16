@@ -2,7 +2,7 @@
 
 Builder, not a talker. Solo developer shipping AI-powered products from zero to one.
 
-I spent years writing specs for other people to build. AI gave me the execution. Now I ship the whole thing myself, full-stack products, autonomous agents, and developer tools, solo, from the terminal.
+I've had ideas for as long as I can remember - too many of them. For years my job was to spec them out for someone else to build. AI gave me the power and the control to execute them myself. Now I ship end to end, full-stack products, autonomous agents, and developer tools, solo, from the terminal.
 
 Most of it starts with a problem I ran into myself.
 
