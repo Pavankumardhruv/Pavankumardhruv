@@ -18,7 +18,6 @@ Open source, and yours to use:
 |---|---|---|
 | [Pa1Whisper](https://github.com/Pavankumardhruv/Pa1Whisper) | Offline voice-to-text for macOS, runs entirely on-device | Swift · WhisperKit · CoreML |
 | [mcptools](https://github.com/Pavankumardhruv/mcptools) | Dev toolkit for MCP servers - scaffold, inspect, test, validate | Python · MCP · FastMCP |
-| [sesyncai](https://github.com/Pavankumardhruv/sesyncai) | Capture and sync AI project context across tools and machines | Python · Typer · GitHub Gist |
 | [tokentrack](https://github.com/Pavankumardhruv/tokentrack) | Terminal token counter and spend tracker for LLM APIs | Python · SQLite · Rich |
 | [ragcli](https://github.com/Pavankumardhruv/ragcli) | Ask questions about local documents from the terminal | Python · ChromaDB · Claude |
 | [animated_onboarding](https://github.com/Pavankumardhruv/animated_onboarding) | Multi-step onboarding widget for Flutter | Flutter · Dart |
